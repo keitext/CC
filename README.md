@@ -3,4 +3,4 @@
 - 강성원
 - 최희선
 - [한국진](https://github.com/b3nn9/TM)
-- 김도연
+- [김도연](https://github.com/keibigdata/doyeonkim_2018)
